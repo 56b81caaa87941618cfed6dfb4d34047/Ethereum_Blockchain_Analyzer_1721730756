@@ -106,5 +106,23 @@
         "static": false,
         "isDraggable": true,
         "isResizable": true
+    },
+    "search_input_1721730776.js": {
+        "id": "search_input-3a9014a4-0105-10f6-4fec-9018aa8d326e",
+        "name": "search_input",
+        "type": "containerComponent",
+        "metadata": {},
+        "w": 4,
+        "h": 4,
+        "x": "30",
+        "y": "30",
+        "i": "__dropping-elem__",
+        "minW": 3,
+        "maxW": 12,
+        "minH": 1,
+        "moved": false,
+        "static": false,
+        "isDraggable": true,
+        "isResizable": true
     }
 }
