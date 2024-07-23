@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a dynamic search bar in the navbar to quickly find specific blockchain details\", \"checked\": true}, {\"feature\": \"Implement dropdown menus under navlinks for categorizing information (e.g., under 'About' have 'Technology', 'Team', and 'Vision')\", \"checked\": false}, {\"feature\": \"Incorporate a theme toggle button (light/dark mode) in the navbar for user preference\", \"checked\": true}, {\"feature\": \"Add a notification bell icon in the navbar to alert users about new blockchains or important updates\", \"checked\": false}, {\"feature\": \"Include a user profile icon in the navbar for account management and settings\", \"checked\": true}], \"input_token_count\": 221, \"output_token_count\": 144, \"time_taken\": \"0:00:07.374117\"}",
+        "message_id": "guest23072024103317",
+        "timestamp": "23072024103326",
+        "component_file_name": "purple_hero_component_1721730758",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Alright, I'll add a navbar with those links.",
         "message_id": "guest23072024103317",
